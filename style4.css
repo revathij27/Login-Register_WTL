@@ -1,0 +1,22 @@
+.stylee{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgba(134, 136, 138, 0.364);
+    height: 40%;
+    width: 30%;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px rgb(25, 58, 98);
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("r.jpg");
+    background-size: cover;
+}
+label{
+    color: white;
+}

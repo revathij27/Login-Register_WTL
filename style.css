@@ -1,0 +1,19 @@
+h1{
+    color:brown;
+}
+p{
+    color:crimson;
+    text-align:center;
+}
+#p1{
+    color:rgb(107, 139, 0);
+    text-align:center;
+}
+#p2{
+    color:blue;
+    margin-top: left;
+}
+#p3{
+    color:blueviolet;
+    margin-top: 5%;
+}
